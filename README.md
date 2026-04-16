@@ -15,8 +15,6 @@ Mở Terminal tại thư mục code và chạy lệnh:
 pip install -r requirements.txt
 ```
 
-````
-
 ### 2. Thiết lập Database (PostgreSQL)
 
 - Mở **pgAdmin 4**, tạo một Database mới đặt tên là `flask_db`.
