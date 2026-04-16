@@ -68,8 +68,3 @@ Server sẽ hoạt động tại địa chỉ: `http://127.0.0.1:5000`
 | **POST**    | `/products`              | Thêm sản phẩm mới      | JSON: `{"name": "...", "price": ...}` |
 | **PUT**     | `/product/<id>`          | Sửa thông tin sản phẩm | JSON: `{"name": "...", "price": ...}` |
 | **DELETE**  | `/product/<id>`          | Xóa sản phẩm           | Không cần                             |
-
-```
-
-```
-````
